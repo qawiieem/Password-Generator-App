@@ -2,7 +2,8 @@
 
 An application that generate random password based on user input for the length of the password.
 
-Here i use 3 modules:
+Contained modules:
+
 1) Tkinter module
   - Used to create an application window.
    
